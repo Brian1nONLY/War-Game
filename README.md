@@ -1,6 +1,5 @@
 # War-Game
 War Game in python
-This is a War Game in Python
 
 2 Players will start off with half the deck.
 
