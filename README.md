@@ -1,7 +1,7 @@
 # War-Game
 This is a War Game in python
 
-2 Players will start off with half the deck.
+2 Players will each start off with half the deck.
 
 They will each remove a card and compare who has the higher card. 
 
